@@ -66,12 +66,20 @@ MODEL GRAPH:
 
 Program
 
+<img width="441" height="335" alt="image" src="https://github.com/user-attachments/assets/9489fd75-08d7-4f56-a045-8ae5a450cac8" />
+
 
 Output Waveform
+
+<img width="1061" height="584" alt="image" src="https://github.com/user-attachments/assets/af49f076-af35-48dd-a17f-7955f8a548dc" />
+
 
 
 
 Tabulation
+
+![WhatsApp Image 2025-09-28 at 19 04 46_a5cdd386](https://github.com/user-attachments/assets/baa7f2de-2177-44b2-b7dc-bb0ad102e26c)
+
 
 
 
