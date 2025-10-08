@@ -85,6 +85,9 @@ Tabulation
 
 Calculation
 
+![WhatsApp Image 2025-10-08 at 14 11 21_34deb62a](https://github.com/user-attachments/assets/3a8b82e2-9cc5-4a89-8eed-7cda573d2618)
+
+
 
 
 Frequency Deviation Practical = 
